@@ -1,0 +1,9 @@
+.Background {
+    background-color: rgb(101, 124, 138);
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    color: rgb(172, 186, 192);
+    font-size: large;
+}
